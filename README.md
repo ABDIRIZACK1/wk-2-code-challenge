@@ -31,7 +31,9 @@ Javascript
 ## Support and contact details
 github.com/ABDIRIZACK1
 
-
+##LICENSE
+MIT LICENSE
+COPYWRITE
 
 
 
